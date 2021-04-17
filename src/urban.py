@@ -1,5 +1,5 @@
 #!/bin/python
-import sys, requests, json, re, textwrap
+import sys, requests, json, textwrap
 
 def search_urban(word):
     "returns the top definiton of a word at urban dictionary"
